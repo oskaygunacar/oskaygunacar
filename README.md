@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Oskay Gunacar</h1>
 <h3 align="center">A passionate backend developer from Turkey / Turkiye</h3>
 
-- 🔭 I’m currently working on **SeoHub Project**
+- 🔭 I’m currently working on **TechSeoHub Project**
 
-- 🌱 I’m currently learning **Django, Vanilla Javascript**
+- 🌱 I’m currently learning **Django, Go**
 
 - 📝 I regularly write articles on [https://www.dijitalzade.com](https://www.dijitalzade.com)
 
